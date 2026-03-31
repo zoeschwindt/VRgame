@@ -19692,6 +19692,63 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1961850150}
   m_CullTransparentMesh: 0
+--- !u!1001 &1964196328
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -6689036041284674117, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_Name
+      value: cannabis_sativa_plant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 60.199463
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.916
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 18.783026
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: -5645937942226959685, guid: 221567aa2d933d34a8579d0a3a420158, type: 3}
 --- !u!65 &1970608853
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23722,3 +23779,4 @@ SceneRoots:
   - {fileID: 1084636755}
   - {fileID: 1279209435}
   - {fileID: 1149839193}
+  - {fileID: 1964196328}
